@@ -8,4 +8,4 @@ users quickly up to speed in using The python scientific stack.
 2. Data types
 3. Matrices with [Numpy](https://numpy.org), and getting data into numpy.
 4. Plotting with [Matplotlib](https://matplotlib.org)
-5. Structured data with [xarray](https://http://xarray.pydata.org/)
+5. Structured data with [xarray](https://xarray.pydata.org/)

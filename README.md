@@ -3,6 +3,10 @@
 This repository has pages for a tutorial I am preparing to bring expert Matlab 
 users quickly up to speed in using the python scientific stack.
 
+## Date: 14 July 0900-1200
+
+Via Zoom (link to be sent via email)  Contact me if interested in joining: jklymak@uvic.ca
+
 ## Scope
 1. Basic python, ipython, [jupyter](https://jupyter.org) notebooks
 2. Data types
@@ -34,7 +38,6 @@ From your shell prompt, somewhere convenient in your file system, you can run `g
 
 You can `cd PythonFromMatlabTutorial` and run `jupyter notebook` from that directory.  You should be able to open the tutorial in `notebooks/`.
 
+### Have a data set to work on!
 
-
-
-
+In the spririt of "learning by doing" please have a small data set to work on, or a toy model you want to get running.  I will put you in breakout rooms and you can ask questions, and if there is time, we can quickly share our results with one another.

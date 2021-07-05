@@ -32,6 +32,8 @@ From this webpage, you can go to the button `:Code:Clone` and copy the address t
 
 From your shell prompt, somewhere convenient in your file system, you can run `git clone git@github.com:jklymak/PythonFromMatlabTutorial.git`.  This will make a new directory with this tutorial in it called `PythonFromMatlabTutorial`.  
 
+You can `cd PythonFromMatlabTutorial` and run `jupyter notebook` from that directory.  You should be able to open the tutorial in `notebooks/`.
+
 
 
 

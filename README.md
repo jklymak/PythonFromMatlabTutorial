@@ -30,6 +30,15 @@ After you have installed anaconda, you should be able to go to your computer's s
 
 Now create your first notebook by using the pull-down "New:Python3" This will give a new file `Untitled.ipynb` and a new tab in your web browser.  At the cursor you can type `print('Hello World')`, hit `shift-enter` and the cell should execute and echo "Hello World".
 
+#### Install extra dependencies
+From a terminal (or if you are using a GUI) install:
+- xarray
+- netcdf4
+- dask (optional)
+- cartopy
+
+You can usual do this in one install incantation: `conda install xarray netcdf4 dask cartopy`
+
 ### Download this class using git
 
 From your shell prompt, somewhere convenient in your file system, you can run `git clone https://github.com/jklymak/PythonFromMatlabTutorial.git`.  This will make a new directory with this tutorial in it called `PythonFromMatlabTutorial`.  You can also access this on this webpage (https://github.com/jklymak/PythonFromMatlabTutorial) at the button `:Code:Clone` and copy the address to your clipboard.
